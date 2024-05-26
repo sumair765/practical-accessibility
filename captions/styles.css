@@ -24,3 +24,12 @@ video {
 video::cue(v[voice="porky"]) {
   color: rgb(235, 111, 132);
 }
+
+video::cue(v[voice="bugs"]) {
+    color: rgb(167, 172, 177);
+  }
+
+  video::cue(v[voice="daffy"]) {
+    color: rgb(224, 139, 42);
+  }
+
