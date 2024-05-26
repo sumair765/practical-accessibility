@@ -1,0 +1,22 @@
+body {
+    background-color: yellow;
+}
+
+.main-section {
+    margin-top: 4rem;
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+}
+
+.main-heading {
+    margin-bottom: 3rem;
+    font-family:'Courier New', Courier, monospace;
+    font-size: 2.5rem;
+}
+
+
+
+video {
+    border-radius: 10px;
+}
