@@ -20,3 +20,7 @@ body {
 video {
     border-radius: 10px;
 }
+
+video::cue(v[voice="porky"]) {
+  color: rgb(235, 111, 132);
+}
